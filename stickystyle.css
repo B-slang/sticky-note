@@ -1,15 +1,15 @@
 .main-body{
-    background-color: #282C34;
-    color: white;
+    background-color: #ffe59f;
+    color: rgb(247, 75, 22);
   }
   
   .content-header{
     width: 100%;
   }
   
-  .content-body{
+  /* .content-body{
   
-  }
+  } */
   .title{
     text-align: center;
   }
@@ -19,7 +19,8 @@
     height:35px;
     border-radius: 15px;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 1000;
+    color:rgb(236, 124, 124);
   }
   
   .add-view{
@@ -27,13 +28,7 @@
     top:25px;
     right:25px;
   }
-  
-  .save-view{
-    position: absolute;
-    bottom:25px;
-    right:25px;
-  }
-  
+
   .note-item{
     width: 350px;
     background-color: #373E48;
