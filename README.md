@@ -1,7 +1,7 @@
 Sticky Note Application
 ============================================================
 
-Deployed here -> slang-sticky-note.netlify.app
+Deployed here -> https://slang-sticky-note.netlify.app
 
 
 
